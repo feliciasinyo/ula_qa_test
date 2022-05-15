@@ -1,6 +1,6 @@
 ## Requirements
 
-- Ensure [ruby](https://github.com/rbenv/rbenv#installation) `>= 2.5.1` has been installed on your local.
+- Ensure [ruby](https://github.com/rbenv/rbenv#installation) has been installed on your local.
 - Download [chromedriver](https://chromedriver.chromium.org/), go to chromedriver location directory, and execute this command:
 
   ```
